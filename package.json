@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "1. describing your idea, 2. the amount of time you spent on finishing the program code (or pseudo code), 3. the different ways you have tried to approach the TECH ASSESSMENT, 4. the reasons of settling on the current approach, and finally, 5. how to execute your program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:back-end": "cd src && python trends.py"
+  },
+  "author": "Kaori",
+  "license": "ISC"
+}
